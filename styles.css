@@ -30,15 +30,6 @@ text-decoration: none;
     gap: 18px;
 }
 
-.navbar_menu_container .user_icon{
-    height: 25px;
-    width: 25px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: solid 1px white;
-    display: none;
-}
 
 
 
