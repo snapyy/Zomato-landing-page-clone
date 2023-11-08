@@ -100,30 +100,30 @@
     .link {
         display: none;
     }
+}
 
-    .hero__section {
-        min-height: 80vh;
-    }
+.hero__section {
+    min-height: 80vh;
+}
 
-    .hero__section_container {
-        flex-direction: column;
-        background-color: transparent;
-        width: 100%;
-    }
+.hero__section_container {
+    flex-direction: column;
+    background-color: transparent;
+    width: 100%;
+}
 
-    .input_container_location,
-    .input_container_search {
-        padding: 18px;
-        border-radius: 10px;
-        width: 98%;
-    }
+.input_container_location,
+.input_container_search {
+    padding: 18px;
+    border-radius: 10px;
+    width: 98%;
+}
 
-    .hero__section_container {
-        height: calc(80vh-40px);
-    }
+.hero__section_container {
+    height: calc(80vh-40px);
+}
 
-    .hero__section_title {
-        font-size: 18px;
-        width: 95%;
-    }
+.hero__section_title {
+    font-size: 18px;
+    width: 95%;
 }
