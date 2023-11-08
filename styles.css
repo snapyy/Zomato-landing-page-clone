@@ -86,6 +86,7 @@
 
 .input_container_search {
   width: 65%;
+<<<<<<< HEAD
 }
 @media only screen and (max-width: 600px) {
   .navbar_menu_container .user_icon {
@@ -121,8 +122,15 @@
     font-size: 18px;
     width: 95%;
   }
+=======
+>>>>>>> 53f29741c86655ef2492d6c6b2c362fe10e87fa8
 }
+@media only screen and (max-width: 600px) {
+  .navbar_menu_container .user_icon {
+    display: flex;
+  }
 
+<<<<<<< HEAD
 .container{
     margin: 3rem auto;
     width: 90%;
@@ -169,3 +177,4 @@
 .we__offer_content p{
     font-size: 12.5px;
 }
+
