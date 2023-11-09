@@ -231,7 +231,7 @@
   top: 0px;
   left: 0px;
   border-radius: 10px;
-  background-image: linear-gradient(90deg,
+  background: linear-gradient(
       rgba(225, 0, 0, 1)0%,
       rgba(225, 0, 2, 1)50%,
       rgba(225, 0, 0, 1)85%,
@@ -313,7 +313,7 @@
   gap: 10px;
 }
 
-right .radio__button_container div input {
+.right .radio__button_container div input {
   height: 15px;
   width: 15px;
   accent-color: rgb(239, 79, 95);
